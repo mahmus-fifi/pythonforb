@@ -21,3 +21,4 @@ str_num = str(number) # casting an int to string
 # printing the type 
 print(type(number)) 
 print(type(str_num))
+
