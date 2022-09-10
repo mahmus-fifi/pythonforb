@@ -20,3 +20,17 @@ title2 = "Amount:"
 
 print("%s %d" %(title, 234))
 print("%10s %d" %(title2, 6))
+
+# other format specifiers 
+""" "%"d --- use with integers
+    "%f" --- use with floating point numbers 
+    "%s" --- use with strings 
+    "%d%%" --- to add a percent sign %
+"""
+# adding spaces 
+"""
+    "%6d" -- adds 6 spaces 
+    "%06d" -- adds 6 zeros after the number 6. 
+    "%.2f" -- displays two digits after the decimal point 
+
+"""
