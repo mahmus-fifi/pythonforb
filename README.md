@@ -1,4 +1,4 @@
-## pythonforb
+## Python for Beginners
 python for beginners' course 
 
 ### What to expect from this course
