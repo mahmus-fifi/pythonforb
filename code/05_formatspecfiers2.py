@@ -48,3 +48,4 @@ item3 = "coffee"
 
 print("Today, i bought a tin of {}, a box of {} and some sweet {} beans at the store."\
       .format(item, item2, item3))
+
