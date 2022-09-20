@@ -4,7 +4,7 @@
 
 ## What to expect from this course
 
-This course is a free course that would improve you knowledge on basic python to intermediate programming skills using 
+This course is a free course that would improve you knowledge on basic python to intermediate programming skills using
 Visual Studio Code Building interractive programs
 
 ## Materials you need
