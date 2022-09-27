@@ -8,11 +8,13 @@ game_console_ps = {
     'Cost(USD)': 299,
     'Cost(GBP)': 299  
    }
+
+"""
 print(type(game_console_ps))
 # print the output 
 print(game_console_ps)
 # stuff about dictionaries 
-"""
+
 Dictionary items are ordered, mutable(can change), are created using key:value pairs 
 referenced using key names []
 can't have items with the same key 
@@ -23,7 +25,7 @@ course = {
     'date': 1996
     'date': 1996    
 }
-"""
+
 # print Japanease release year value
  
 cost_in_yen = game_console_ps['Cost(JPY)']
@@ -53,10 +55,18 @@ print(all_values)
 # items() will return values in the dictionary as tuples 
 tup = game_console_ps.items()
 print(tup)
+"""
+
+# values() will return all values as well 
+
+dictionary_values = game_console_ps.values()
+print(f'Values in the dictionary are: {dictionary_values}')
 
 # using statements to check for key values 
 if 'Console' in game_console_ps:
     print('Console exists as a dictionary key')
+  
+
     
 
 
