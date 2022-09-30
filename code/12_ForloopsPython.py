@@ -1,7 +1,7 @@
 # working with Python forloops
 programming_languages = ['Python', 'C++', 'Java,','C','Swift','JavaScript']
 
-"""
+
 for languages in programming_languages:
     print(languages)
     
@@ -9,20 +9,20 @@ state = 'Mississippi'
 
 for letters in state:
     print(letters)
-    """
+    
 # breaking out of a for loop 
 
-"""for lang in programming_languages:
+for lang in programming_languages:
     if lang == 'Swift':
         #break
         continue
-    print(lang)"""
+    print(lang)
 # using numerical values and range() 
-"""number = 10
+number = 10
 for val in range(number):
     print(f'Values are: {val}')    
-"""
-"""start = 2
+
+start = 2
 stop = 21
 step = 3
 
@@ -30,9 +30,9 @@ for i in range(start, stop, step):
     print(i)
     
 for val in range(1, 10, 4):
-    print(val)"""
+    print(val)
 
-"""   
+   
 for num in range(12):
     print(num)
 else:
@@ -60,7 +60,7 @@ console = ['PS5', 'Xbox Series S', 'Nintendo']
 for i in game:
     for j in console:
         print(i, j) 
- """       
+      
 ########## Exercises 
 for row in range(3):
     for column in range(3):
