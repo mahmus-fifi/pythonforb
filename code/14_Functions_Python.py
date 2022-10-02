@@ -1,3 +1,10 @@
+"""
+Functions are used to group blocks of code together. They can return a value and take more than one input.
+How functions work are hidden from the user. So you don't need to know how a function was created to know how to use it.
+Similar to how you don't need to know the Gas compression ration of a car to know how to drive on
+
+"""
+
 # working with functions 
 # len() str()
 lst = ["Today is a good day for coding!"]
