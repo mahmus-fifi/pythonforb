@@ -21,10 +21,19 @@ This project is a free course on python programming for beginners. You can find 
 
 ## Topics Covered
 
-1. Introductory code -- Hello.py
+1. Introductory code 
 2. Variables and Datatypes
 3. Casting
 4. Formatspecifiers
 5. Formatspecifiers 2
 6. Using WhileLoop
 7. Python Lists Tuples and Dictionaries
+8. Python Lists
+9. Tuples
+10. Sets
+11. ForLoop
+12. Dictionaries
+13. Functions
+14. Lambda Functions 
+15. Errors and Exceptions
+16. File Handling 
