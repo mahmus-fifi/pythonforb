@@ -1,3 +1,3 @@
-Hi there, i am a super empty file. nothing to see here. 
+Hi There, i am a super empty file. Nothing to see here 
 wait, i have a second line now. 
-I am no longer boring. 
+I am no longer empty. 
