@@ -2,9 +2,7 @@
 Functions are used to group blocks of code together. They can return a value and take more than one input.
 How functions work are hidden from the user. So you don't need to know how a function was created to know how to use it.
 Similar to how you don't need to know the Gas compression ration of a car to know how to drive on
-
 """
-
 # working with functions 
 # len() str()
 lst = ["Today is a good day for coding!"]
@@ -14,13 +12,11 @@ length_of_list = len(lst)
 number = 5
 add_5 = length_of_list + number
 #print('we took %d and added to it, now we have %d'%(number, add_5))
-
 # creating our own functions 
 def dummyFunction():
     pass
 # calling a function 
 dummyFunction()
-
 # function that does something  
 def sayHello(greeting):
     print(greeting)
@@ -53,7 +49,6 @@ Area(0.23)
 Area(2.22)
 Area(12.45)
 
-
 # using Area and a return method 
 def AreaReturn(radius):
     """Calculates the Area of a Circle"""
@@ -63,14 +58,12 @@ def AreaReturn(radius):
 result = AreaReturn(0.23) * 100
 print(f'The Area is: {result}')
 
-
 def printNum():
     x = 29
     print(x)
-    
+       
 printNum()
 #print(x)
-
 # program that multiplies two numbers 
 def MultiplyTwoNumbers(firstnum, secondnum):
     print('*****************************')
